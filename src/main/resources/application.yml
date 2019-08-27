@@ -1,0 +1,6 @@
+server:
+  name: demo
+  port: 8080
+  
+log:
+  path: /usr/local/tomcat/
